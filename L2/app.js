@@ -3,3 +3,4 @@ var person = {
     age: 21
 };
 console.log(person.firstName);
+console.log(person.age);
